@@ -1,0 +1,7 @@
+$schema: https://azuremlschemas.azureedge.net/latest/compute.schema.json
+#enter name for the compute
+name: coejr-vscode-cmpt
+#enter type of compute
+type: computeinstance
+#enter VM size
+size: small
